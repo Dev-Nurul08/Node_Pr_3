@@ -175,8 +175,8 @@ npm run dev
   
   <br/><br/>
 
-  <a href="https://github.com/Dev-Nurl08">
-    <img src="https://img.shields.io/badge/GITHUB-Dev-Nurul-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Dev-Nurul08">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-DEV-NURUL-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nurul-shaikh-44b41838b/">
     <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
