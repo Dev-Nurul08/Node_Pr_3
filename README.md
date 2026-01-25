@@ -8,14 +8,14 @@
   <!-- LIVE SYSTEM BANNER - UNMISSABLE -->
   <br />
   <div align="center" style="margin-top: -80px;">
-  <a href="https://atomic-node-pr03.onrender.com/">
+  <a href="https://ultimate-dashbopard.onrender.com/">
     <img src="https://img.shields.io/badge/🔴_CLICK_TO_INITIALIZE_LIVE_SYSTEM-ACCESS_GRANTED-000000?style=for-the-badge&logo=render&logoColor=red&labelColor=101010&color=000000&border=red" height="50" />
   </a>
 </div>
 
 <br />
 
-  <a href="https://atomic-node-pr03.onrender.com/">
+  <a href="https://ultimate-dashbopard.onrender.com/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=fffff&center=true&vCenter=true&width=600&lines=🔴+CLICK+TO+LAUNCH+LIVE+SYSTEM;ACCESS+DEPLOYMENT+NOW" alt="Typing SVG" />
   </a>
   <br />
@@ -175,10 +175,10 @@ npm run dev
   
   <br/><br/>
 
-  <a href="https://github.com/Dev-Nurl08www">
-    <img src="https://img.shields.io/badge/GITHUB-Follow_Dev--Shivam-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Dev-Nurl08">
+    <img src="https://img.shields.io/badge/GITHUB-Dev-Nurul-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-bhadoriya-b82792324/">
+  <a href="https://www.linkedin.com/in/nurul-shaikh-44b41838b/">
     <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_fr.nurll/">
